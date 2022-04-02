@@ -1,4 +1,4 @@
-# Desgin-Patterns-in-VBA
+# Design-Patterns-in-VBA
 This repository contains files that has been implemented to demonstrate Design Patterns in VBA
 
 #OOP i.e. Object-Oriented Programming Paradigm is the least sought side of #VBA programming. With #OOP, I'm talking about programming using Class Modules. There are a lot of ways to explain Programming using Class Modules for Office Apps Automation and how it makes your job efficient and elegant as per maintainability and readability of the entire project.
